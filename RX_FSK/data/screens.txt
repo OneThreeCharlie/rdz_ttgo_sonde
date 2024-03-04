@@ -221,10 +221,10 @@ fonts=5,6
 
 ############
 @MainTFT
-timer=-1,-1,N
+timer=30,-1,N
 key1action=+,0,F,W
 key2action=>,#,#,#
-timeaction=#,#,0
+timeaction=0,#,0
 color=FFD700
 0,0=Is
 color=0000FF
